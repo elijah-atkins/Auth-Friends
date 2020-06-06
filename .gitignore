@@ -1,11 +1,13 @@
 # dependencies
 /node_modules
+/friends/node_modules
 
 # testing
 /coverage
 
 # production
 /build
+/friends/build
 
 # misc
 .DS_Store
